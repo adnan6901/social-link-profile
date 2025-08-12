@@ -1,6 +1,6 @@
 # Social Links Profile
 
-This is my solution to the [Social links profile challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ){:target="_blank" rel="noopener noreferrer"}. This project helped me improve my HTML and CSS skills by building a responsive social profile card.
+This is my solution to the [Social links profile challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ). This project helped me improve my HTML and CSS skills by building a responsive social profile card.
 
 ## Overview
 
@@ -14,8 +14,8 @@ This is my solution to the [Social links profile challenge on Frontend Mentor](h
 
 ## Links
 
-- Live site: [https://adnan6901.github.io/social-link-profile/](https://adnan6901.github.io/social-link-profile/){:target="_blank" rel="noopener noreferrer"}
-- Repository: [https://github.com/adnan6901/social-link-profile](https://github.com/adnan6901/social-link-profile){:target="_blank" rel="noopener noreferrer"}
+- Live site: [https://adnan6901.github.io/social-link-profile/](https://adnan6901.github.io/social-link-profile/)
+- Repository: [https://github.com/adnan6901/social-link-profile](https://github.com/adnan6901/social-link-profile)
 
 ## Built With
 
@@ -34,8 +34,8 @@ This is my solution to the [Social links profile challenge on Frontend Mentor](h
 ## Author
 
 - Adnan Wayne  
-- Frontend Mentor - [@adnan6901](https://www.frontendmentor.io/profile/adnan6901){:target="_blank" rel="noopener noreferrer"}  
-- Instagram - [@adnanhasan.jp](https://www.instagram.com/adnanhasan.jp){:target="_blank" rel="noopener noreferrer"}
+- Frontend Mentor - [@adnan6901] https://www.frontendmentor.io/profile/adnan6901 
+- Instagram - [@adnanhasan.jp](https://www.instagram.com/adnanhasan.jp)
 
 ---
 
