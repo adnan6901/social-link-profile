@@ -21,9 +21,8 @@ This is my solution to the [Social links profile challenge on Frontend Mentor](h
 
 - HTML5  
 - CSS3  
-- Google Fonts (Inter)  
-- Flexbox  
-- Mobile-first design
+- Google Fonts (Inter)
+- First design
 
 ## What I Learned
 
